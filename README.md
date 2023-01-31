@@ -27,11 +27,15 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
 
-<a href="http://www.github.com/muntasirabid"><img src="https://github-readme-stats.vercel.app/api?username=muntasirabid&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="muntasirabid's GitHub stats" /></a>
+<a href="http://www.github.com/muntasirabid"><img src="https://github-readme-stats.vercel.app/api?username=muntasirabid&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="muntasirabid's GitHub stats" /></a> 
 
-<a href="http://www.github.com/muntasirabid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasirabid&stroke=0891b2&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=0891b2&currStreakLabel=6366f1&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+<a href="http://www.github.com/muntasirabid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasirabid&stroke=0891b2&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=0891b2&currStreakLabel=6366f1&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a> <a href="https://github.com/muntasirabid" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirabid&langs_count=10&title_color=6366f1&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/muntasirabid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=muntasirabid&bg_color=1c1917&color=0891b2&line=0891b2&point=0891b2&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/muntasirabid" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirabid&langs_count=10&title_color=6366f1&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://www.buymeacoffee.com/muntasirAbid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+![wave](https://github.com/MuntasirAbid/MuntasirAbid/blob/main/wave.svg)
+
+
 
