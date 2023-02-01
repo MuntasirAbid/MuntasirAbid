@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi <img src = "https://github.com/MuntasirAbid/MuntasirAbid/blob/main/hi.gif" width="50px" height="50px">, I'm Muntasir</h1> 
-<h3 align="center">A Passionate Web Developer</h3>
+<h3 align="center">A Passionate MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasirabid&label=Profile%20views&color=0e75b6&style=flat" alt="muntasirabid" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 Some of my Projects are here [https://portfolio-neon-chi-24.vercel.app/](https://portfolio-neon-chi-24.vercel.app/)
 
-- 💬 Talk to me about **React,JavaScript,Node**
+- 💬 Talk to me about **React,JavaScript**
 
 - 📫 Reach me at **muntasira7@hotmail.com**
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="65px" height="60px"></h2> 
