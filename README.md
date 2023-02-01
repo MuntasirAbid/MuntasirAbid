@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/MuntasirAbid/MuntasirAbid/blob/main/banner.gif)
 
 
-<h1 align="center">Hi <img src = "https://github.com/MuntasirAbid/MuntasirAbid/blob/main/hi.gif" width="50px" height="50px">, I'm Muntasir</h1> 
+<h1 align="center">Hello <img src = "https://github.com/MuntasirAbid/MuntasirAbid/blob/main/hi.gif" width="50px" height="50px">, I'm Muntasir</h1> 
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasirabid&label=Profile%20views&color=0e75b6&style=flat" alt="muntasirabid" /> </p>
