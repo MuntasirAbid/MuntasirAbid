@@ -2,13 +2,15 @@
 
 
 <h1 align="center">Hello <img src = "https://github.com/MuntasirAbid/MuntasirAbid/blob/main/hi.gif" width="50px" height="50px">, I'm Muntasir</h1> 
-<h3 align="center">A Passionate MERN Stack Developer</h3>
+<h3 align="center">Learning Web Based Aplication Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntasirabid&label=Profile%20views&color=0e75b6&style=flat" alt="muntasirabid" /> </p>
 
+## :eyes: Current overview
+
 - 🌱 I’m currently learning **Typescript,Python,Nextjs,React Native**
 
-- 👨‍💻 Some of my Projects are here [https://portfolio-neon-chi-24.vercel.app/](https://portfolio-neon-chi-24.vercel.app/)
+- 👨‍💻 Some of my Projects are here-> [https://portfolio-neon-chi-24.vercel.app/](https://portfolio-neon-chi-24.vercel.app/)
 
 - 💬 Talk to me about **React,JavaScript**
 
