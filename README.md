@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hello <img src = "https://github.com/MuntasirAbid/MuntasirAbid/blob/main/hi.gif" width="50px" height="50px">, I'm Muntasir</h1> 
-<h3 align="center">Learning Full-Stack Web Based Aplication Development</h3>
+<h3 align="center">Learning Full-Stack Development</h3>
 
 
 
 ## :eyes: Current overview
 
-- 🌱 I’m currently learning **Typescript,Python,Nextjs,React Native**
+- 🌱 I’m currently learning **Typescript, Python, Machine Learning**
 
 - 👨‍💻 Some of my Projects are here-> [https://portfolio-neon-chi-24.vercel.app/](https://portfolio-neon-chi-24.vercel.app/)
 
