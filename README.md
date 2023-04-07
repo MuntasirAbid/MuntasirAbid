@@ -6,15 +6,15 @@
 
 
 
-## :eyes: Current overview
+<h2><img src = "https://cliply.co/wp-content/uploads/2020/03/392001500_EYES_EMOJI_400px.gif" width="40px" height="40px">  Current overview </h2>
 
 - 🌱 I’m currently learning **Typescript, Python, Machine Learning**
 
-- 👨‍💻 Some of my Projects are here-> [https://portfolio-neon-chi-24.vercel.app/](https://portfolio-neon-chi-24.vercel.app/)
+- 👨‍💻 Some of my Projects are here-> [https://portfolio-muntasirabid.vercel.app](https://portfolio-muntasirabid.vercel.app)
 
 - 💬 Talk to me about **React,JavaScript**
 
-- 📫 Reach me at **muntasira7@hotmail.com**
+- 📫 Reach me at-> **muntasira7@hotmail.com**
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="65px" height="60px"></h2> 
 <p align="left">
 <p align="left"> <a href="https://www.facebook.com/muntasiralabid/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/muntasirabid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/muntasir.____/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muntasir-al-abid-b62247172" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
