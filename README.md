@@ -8,7 +8,7 @@
 
 <h2><img src = "https://cliply.co/wp-content/uploads/2020/03/392001500_EYES_EMOJI_400px.gif" width="40px" height="40px">  Current overview </h2>
 
-- 🌱 I’m currently learning **Typescript, Python, Machine Learning**
+- 🌱 I’m currently learning **Typescript, Docker, Kubernetes**
 
 - 👨‍💻 Some of my Projects are here-> [https://portfolio-muntasirabid.vercel.app](https://portfolio-muntasirabid.vercel.app)
 
