@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hello <img src = "https://github.com/MuntasirAbid/MuntasirAbid/blob/main/hi.gif" width="50px" height="50px">, I'm Muntasir</h1> 
-<h3 align="center">Learning Full-Stack Development</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 
 
 <h2><img src = "https://cliply.co/wp-content/uploads/2020/03/392001500_EYES_EMOJI_400px.gif" width="40px" height="40px">  Current overview </h2>
 
-- 🌱 I’m currently learning **Typescript, Docker, Kubernetes**
+- 🌱 I’m currently learning ** Blockchain, Smart Contracts, dApps **
 
 - 👨‍💻 Some of my Projects are here-> [https://portfolio-muntasirabid.vercel.app](https://portfolio-muntasirabid.vercel.app)
 
