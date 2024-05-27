@@ -1,18 +1,18 @@
 ![MasterHead](https://github.com/MuntasirAbid/MuntasirAbid/blob/main/banner.gif)
 
 
-<h1 align="center">Hello <img src = "https://github.com/MuntasirAbid/MuntasirAbid/blob/main/hi.gif" width="50px" height="50px">, I'm Muntasir</h1> 
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Hello <img src = "https://github.com/MuntasirAbid/MuntasirAbid/blob/main/hi.gif" width="50px" height="50px"> I'm Muntasir</h1> 
+<h2 align="center">Full-Stack Developer</h2>
 
 
 
 <h2><img src = "https://cliply.co/wp-content/uploads/2020/03/392001500_EYES_EMOJI_400px.gif" width="40px" height="40px">  Current overview </h2>
 
-- 🌱 I’m currently learning ** Blockchain, Smart Contracts, dApps **
+- 🌱 I’m currently learning-> **Blockchain, Smart Contracts, dApps**
 
 - 👨‍💻 Some of my Projects are here-> [https://portfolio-muntasirabid.vercel.app](https://portfolio-muntasirabid.vercel.app)
 
-- 💬 Talk to me about **React,JavaScript**
+- 💬 Talk to me about-> **React,JavaScript**
 
 - 📫 Reach me at-> **muntasira7@hotmail.com**
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="65px" height="60px"></h2> 
@@ -33,7 +33,7 @@
 
 <a href="http://www.github.com/muntasirabid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasirabid&stroke=0891b2&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=0891b2&currStreakLabel=6366f1&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a> <a href="https://github.com/muntasirabid" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirabid&langs_count=10&title_color=6366f1&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/muntasirabid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=muntasirabid&bg_color=1c1917&color=0891b2&line=0891b2&point=0891b2&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <a href="https://www.buymeacoffee.com/muntasirAbid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
