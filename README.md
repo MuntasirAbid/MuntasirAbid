@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello <img src = "https://github.com/MuntasirAbid/MuntasirAbid/blob/main/hi.gif" width="50px" height="50px"> I'm Muntasir</h1> 
-<h2 align="center">Full-Stack Developer</h2>
+<h2 align="center">Full-Stack Software Engineer</h2>
 
 
 
