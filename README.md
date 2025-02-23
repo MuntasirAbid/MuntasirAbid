@@ -70,7 +70,7 @@
 
 
 
-<a href="https://www.buymeacoffee.com/muntasirAbid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
 
 ![wave](https://github.com/MuntasirAbid/MuntasirAbid/blob/main/wave.svg)
 
