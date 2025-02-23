@@ -27,11 +27,46 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muntasirabid&show_icons=true&locale=en" alt="muntasirabid" /></p> -->
 
+
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
 
-<a href="http://www.github.com/muntasirabid"><img src="https://github-readme-stats.vercel.app/api?username=muntasirabid&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="muntasirabid's GitHub stats" /></a> 
+<!--<a href="http://www.github.com/muntasirabid"><img src="https://github-readme-stats.vercel.app/api?username=muntasirabid&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0891b2&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="muntasirabid's GitHub stats" width="493px" /></a>
 
-<a href="http://www.github.com/muntasirabid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasirabid&stroke=0891b2&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=0891b2&currStreakLabel=6366f1&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a> <a href="https://github.com/muntasirabid" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirabid&langs_count=10&title_color=6366f1&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/muntasirabid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasirabid&stroke=0891b2&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=0891b2&currStreakLabel=6366f1&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a> 
+
+<a href="https://github.com/muntasirabid" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirabid&langs_count=10&title_color=6366f1&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
+
+
+<table width="100%">
+  <tr>
+    <!-- Left Column (GitHub Stats + Streak Stats) -->
+    <td width="65%" valign="top">
+      <a href="http://www.github.com/muntasirabid">
+        <img src="https://github-readme-stats.vercel.app/api?username=muntasirabid&show_icons=true&count_private=true&title_color=6366f1&text_color=0891b2&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" width="100%"/>
+      </a>
+      <br/>
+      <a href="http://www.github.com/muntasirabid">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasirabid&stroke=0891b2&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=0891b2&currStreakLabel=6366f1&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" width="100%"/>
+      </a>
+    </td>
+    <td width="35%" valign="top">
+      <a href="https://github.com/muntasirabid">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirabid&langs_count=10&title_color=6366f1&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+<div>
+ 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muntasirabid&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 
 
