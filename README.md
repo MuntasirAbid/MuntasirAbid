@@ -41,17 +41,14 @@
   <tr>
     <!-- Left Column (GitHub Stats + Streak Stats) -->
     <td width="65%" valign="top">
-      <a href="http://www.github.com/muntasirabid">
-        <img src="https://github-readme-stats.vercel.app/api?username=muntasirabid&show_icons=true&count_private=true&title_color=6366f1&text_color=0891b2&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" width="100%"/>
+      <a href="http://www.github.com/muntasirabid"><img src="https://github-readme-stats.vercel.app/api?username=muntasirabid&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=0891b2&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" alt="muntasirabid's GitHub stats" width="100%"/>
       </a>
       <br/>
-      <a href="http://www.github.com/muntasirabid">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasirabid&stroke=0891b2&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=0891b2&currStreakLabel=6366f1&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" width="100%"/>
+      <a href="http://www.github.com/muntasirabid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasirabid&stroke=0891b2&background=181824&ring=a855f7&fire=a855f7&currStreakNum=0891b2&currStreakLabel=a855f7&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" width="100%"/>
       </a>
     </td>
     <td width="35%" valign="top">
-      <a href="https://github.com/muntasirabid">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirabid&langs_count=10&title_color=6366f1&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" width="100%"/>
+      <a href="https://github.com/muntasirabid" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirabid&langs_count=10&title_color=a855f7&text_color=0891b2&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="100%"/>
       </a>
     </td>
   </tr>
