@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning-> **Blockchain, Smart Contracts, dApps**
 
-- 👨‍💻 Some of my Projects are here-> [Portfolio](https://muntasiralabid.vercel.app)
-
 - 💬 Talk to me about-> **React,JavaScript**
 
 - 📫 Reach me at-> **muntasira7@hotmail.com**
