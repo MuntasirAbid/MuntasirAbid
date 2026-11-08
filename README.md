@@ -25,17 +25,17 @@
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
 
 
-<table width="100%">
-  <tr>
+<table width="100%" border="0">
+  <tr style="border-top: 0;">
     <!-- Left Column (GitHub Stats + Streak Stats) -->
-    <td width="65%" valign="top">
+    <td width="65%" valign="top" border="0">
       <a href="http://www.github.com/muntasirabid"><img src="https://github-stats-extended-eta-beige.vercel.app/api?username=muntasirabid&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=0891b2&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" alt="muntasirabid's GitHub stats" width="100%"/>
       </a>
       <br/>
       <a href="http://www.github.com/muntasirabid"><img src="https://streak-stats.demolab.com/?user=muntasirabid&stroke=0891b2&background=181824&ring=a855f7&fire=a855f7&currStreakNum=0891b2&currStreakLabel=a855f7&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" width="100%"/>
       </a>
     </td>
-    <td width="35%" valign="top">
+    <td width="35%" valign="top" border="0">
       <a href="https://github.com/muntasirabid" align="left"><img src="https://github-stats-extended-eta-beige.vercel.app/api/top-langs/?username=muntasirabid&langs_count=10&title_color=a855f7&text_color=0891b2&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="100%"/>
       </a>
     </td>
