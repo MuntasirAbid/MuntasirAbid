@@ -36,7 +36,7 @@
       </a>
     </td>
     <td width="35%" valign="top" border="0">
-      <a href="https://github.com/muntasirabid" align="left"><img src="https://github-stats-extended-eta-beige.vercel.app/api/top-langs/?username=muntasirabid&langs_count=10&title_color=a855f7&text_color=0891b2&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="100%"/>
+      <a href="https://github.com/muntasirabid" align="left"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=muntasirabid&langs_count=10&title_color=a855f7&text_color=0891b2&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="100%"/>
       </a>
     </td>
   </tr>
